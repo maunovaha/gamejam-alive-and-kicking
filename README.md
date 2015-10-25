@@ -1,18 +1,15 @@
-Alive & Kicking
-===============
+# Alive & Kicking
 
 Stage autumn 2014 gamejam game developed within 48 hours.
 
 
-Credits
-=======
+## Credits
 
-Mauno Vähä (Programming, graphics etc.)
-Rauli Puuperä (Music)
+* Mauno Vähä (Programming, graphics etc.)
+* Rauli Puuperä (Music)
 
 
-Contact
-=========
+## Contact
 
 If you have any questions regarding this game or license, start by reaching me using contact information below.
 

@@ -1,13 +1,11 @@
-Copyright for graphical assets alike
-====================================
+## Copyright for graphical assets and alike
 
 Copyright (c) applies for graphics, sounds and all the other assets than the source code. In other words, 
 you are not allowed to copy nor use these assets in your own projects. Hence, if you do, you are 
 held guilty of violating the copyright rules.
 
 
-Copyright for source code
-=========================
+## Copyright for source code
 
 The MIT License (MIT)
 
