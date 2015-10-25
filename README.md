@@ -7,7 +7,8 @@ Stage autumn 2014 gamejam game developed within 48 hours.
 Credits
 =======
 
-Mauno Vähä
+Mauno Vähä (Programming, graphics etc.)
+Rauli Puuperä (Music)
 
 
 Contact
