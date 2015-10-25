@@ -4,7 +4,7 @@ A fast-paced karate game in which a player must to survive by punching away the 
 
 This game is developed for stage autumn 2014 gamejam within 48 hours.
 
-(http://maunovaha.com/assets/images/games/aliveandkicking_1.png "Screenshot")
+![Screenshot](http://maunovaha.com/assets/images/games/aliveandkicking_1.png)
 
 
 ### Play
