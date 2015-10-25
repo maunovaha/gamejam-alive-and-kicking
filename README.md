@@ -1,6 +1,10 @@
 # Alive & Kicking
 
-Stage autumn 2014 gamejam game developed within 48 hours.
+A fast-paced karate game in which a player must to survive by punching away the objects flying to the view.
+
+This game is developed for stage autumn 2014 gamejam within 48 hours.
+
+(http://maunovaha.com/assets/images/games/aliveandkicking_1.png "Screenshot")
 
 
 ### Play
