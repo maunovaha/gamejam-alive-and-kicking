@@ -6,23 +6,15 @@ This game is developed for stage autumn 2014 gamejam within 48 hours.
 
 ![Screenshot](/alive-and-kicking.jpg)
 
-### Play
-
-This game can be played at [gamejolt](http://gamejolt.com/games/alive-kicking/36592).
-
-
-### Credits
+## Credits
 
 * Mauno Vähä (Programming, graphics etc.)
 * Rauli Puuperä (Music)
 
+## Contact
 
-### Contact
+If you have any questions regarding this repository, start by reaching me using contact information below.
 
-If you have any questions regarding this game or license, start by reaching me using contact information below.
-
-Website: http://maunovaha.com
-
-Email: maunovaha[at]gmail.com
-
-Twitter: @maunovaha
+- [maunovaha.com](http://maunovaha.com)
+- [@maunovaha](https://twitter.com/maunovaha) (twitter)
+- maunovaha[at]gmail.com
