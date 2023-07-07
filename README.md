@@ -10,11 +10,3 @@ This game is developed for stage autumn 2014 gamejam within 48 hours.
 
 * Mauno Vähä (Programming, graphics etc.)
 * Rauli Puuperä (Music)
-
-## Contact
-
-If you have any questions regarding this repository, start by reaching me using contact information below.
-
-- [maunovaha.com](http://maunovaha.com)
-- [@maunovaha](https://twitter.com/maunovaha) (twitter)
-- maunovaha[at]gmail.com
